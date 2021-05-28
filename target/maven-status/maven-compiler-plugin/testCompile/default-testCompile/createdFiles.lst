@@ -1,0 +1,7 @@
+com/wefox/Base/Base.class
+com/wefox/pageObjects/LoginPage.class
+com/wefox/helper/PayOnArrivalBookingHelper.class
+com/wefox/test/PayOnArrivalBookingTest.class
+com/wefox/helper/BaseHelper.class
+com/wefox/pageObjects/HomePage.class
+com/wefox/pageObjects/PaymentPage.class
