@@ -7,6 +7,7 @@ About this framework
 . The framework is a Maven, Page Object Model project created using Java, TestNG, Selenium <br/>
 . The framework can be enhanced to a data-driven framework and each test case can be reused to run for multiple data sets using TestNG data provider. <br/>
 . The framework can be improved by creating utility methods. <br/>
+. Logger and Reporting can be added in the framework.
 . The Framework can easily be integrated to any CI/CD tool for example Jenkins to schedule the run and to deliver the test reports to respective persons. <br/>
 
 
